@@ -1,6 +1,6 @@
-#Introduction To Programming With Ruby Exercises
+# Introduction To Programming With Ruby Exercises
 
-##A collection of the 9 exercise lessons provided in the Launch School Intro to Programming Book. 
+## A collection of the 9 exercise lessons provided in the Launch School Intro to Programming Book. 
 
 The lessons were provided in the following order: 
 
